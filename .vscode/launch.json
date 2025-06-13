@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Aula06Condicional",
+            "request": "launch",
+            "mainClass": "com.mycompany.Aula06Condicional",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Recuperacao",
+            "request": "launch",
+            "mainClass": "com.mycompany.Recuperacao",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Aula08Funcoes",
             "request": "launch",
             "mainClass": "com.mycompany.Aula08Funcoes",
