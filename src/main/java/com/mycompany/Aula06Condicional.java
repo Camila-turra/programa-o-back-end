@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Recuperacao {
+public class Aula06Condicional {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] valores = new int[10];
